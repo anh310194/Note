@@ -1,0 +1,4 @@
+Install Ubuntu WSL on Window OS: https://learn.microsoft.com/en-us/windows/wsl/install-manual
+Note: Fixxing error: Temporary failure resolving archive Ubuntu com WSL 2
+open terminal on Ubuntu WSL:https://www.youtube.com/watch?v=iLSAJNP1os8
+input: echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf > /dev/null
